@@ -7,7 +7,7 @@
 - # Datos del autor
 
 # Descripcion 
-EL conversor de monedas nos permite conocer el valor de quetzales a dolares y euros, como viceversa, obteniendo su valor en la otra moneda. 
+El conversor de monedas nos permite conocer el valor de quetzales a dolares y euros, como viceversa, obteniendo su valor en la otra moneda. 
 
 # Prerequisitos
  1. Tener instalado Visual Studio Code

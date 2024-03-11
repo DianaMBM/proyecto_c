@@ -20,7 +20,7 @@ El conversor de monedas nos permite conocer el valor de quetzales a dolares y eu
 4. Para finalizar, probar el codigo.
 
 # Datos del autor
-- *Diana Lorena Platero Rojas*
-- Carne *24002040*
+- **Diana Lorena Platero Rojas**
+- Carne **24002040**
 - correo diana.platero@galileo.edu
  

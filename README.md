@@ -19,8 +19,6 @@ El conversor de monedas nos permite conocer el valor de quetzales a dolares y eu
 3. Crear la función principal, Switch, para mostrar el menú de opciones.
 4. Para finalizar, probar el código.
 
-# Datos del autor
-- **Diana Lorena Platero Rojas**
-- Carne **24002040**
-- correo diana.platero@galileo.edu
+
+
  
